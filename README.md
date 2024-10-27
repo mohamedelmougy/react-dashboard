@@ -11,7 +11,7 @@ This project is a customizable and dynamic React.js dashboard application design
 - Styling: `Material UI`
 - Form: `React Hook Form`
 - Router: `React Router DOM`
-
+- data visualization: `Nivo.js`
 
 ## Getting Started
 
